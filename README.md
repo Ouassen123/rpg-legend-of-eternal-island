@@ -67,7 +67,11 @@ Each NPC has a background and purpose:
 ---
 
 ## 🛠️ Technologies Used
-
+- 🐍 **Python** – for the game engine logic and backend systems
+- 🎮 **Pygame** (or specify Godot if you switch)
+- 🖼 **Pixel Art (16-bit style)** for all visuals
+- 🗺 **Tiled Map Editor** for building maps
+- 💾 **SQLite** – for saving game progress, player stats, and inventory
 - **Godot Engine 4.x**
 - **Tiled Map Editor** (for tilemaps)
 - **GIMP/Photoshop** (for pixel art)
